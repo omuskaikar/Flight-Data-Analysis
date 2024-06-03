@@ -10,6 +10,21 @@ The dataset contains detailed information on thousands of flights, including par
 ## Data Pipeline
 ![Frame 1](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/cf05e648-4040-412f-a2ca-de047bb65262)
 
+## RDS
+![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/1279a9ad-5215-4b20-9d67-8103b68cc29e)
+
+## Glue Jobs
+![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/93a74fef-b830-4e81-94a1-88394531883b)
+
+## Redshift (Data Warehouse)
+![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/1a60cda2-1eb1-42fe-bcad-c5e60ec8de24)
+
+## PowerBI Dashboard
+![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/2b618f1b-b97a-4f0f-9399-26910757f2b7)
+
+
+
+
 
 
 
