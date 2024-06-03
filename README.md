@@ -3,6 +3,7 @@
 #### Welcome to the Flight Data Analysis project! This repository contains an in-depth analysis of flight data for the years 2020 through 2022, with a particular focus on flight delays. By leveraging a comprehensive dataset that encompasses various flight details such as departure and arrival times, delays, cancellations, origin and destination airports, airlines, and more, we aim to gain valuable insights into airline operations
 
 ## 📋 Data Description
+Data Source: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
 This dataset comprises comprehensive flight information, including cancellations and delays by airline, dating back to January 2020. 
 It is a dataset with high volume. (5.31 GB of data)
 The dataset contains detailed information on thousands of flights, including parameters such as departure delays, arrival delays, airlines, and airports. 
