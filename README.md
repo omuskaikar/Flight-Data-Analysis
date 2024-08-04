@@ -10,13 +10,12 @@ The dataset contains detailed information on thousands of flights, including par
 
 ## 🛠️ Data Pipeline
 ![Frame 1](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/cf05e648-4040-412f-a2ca-de047bb65262)
-
 ## 📸 Project Screenshots
+
 ![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/1279a9ad-5215-4b20-9d67-8103b68cc29e)
 ![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/93a74fef-b830-4e81-94a1-88394531883b)
 ![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/1a60cda2-1eb1-42fe-bcad-c5e60ec8de24)
 ![image](https://github.com/yashyaks/Flight-Data-Analysis---A-Big-Data-Engineering-Project/assets/90375840/e1ee566f-bf4b-40b1-95ec-829f15069683)
-Check out the project video for a detailed walkthrough:(https://www.canva.com/design/DAGL79nHYdE/vJdmQ5bQU2BFb1hE8Acdiw/watch)
 
 
 
